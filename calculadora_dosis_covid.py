@@ -1,3 +1,5 @@
+# Autor: Juan Ribeiro 2022
+
 import csv
 import struct
 
